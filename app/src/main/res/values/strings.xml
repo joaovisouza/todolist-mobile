@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="logout">Logout</string>
+    <string name="bem_vindo_ao_app">Bem-vindo ao App!</string>
+</resources>
